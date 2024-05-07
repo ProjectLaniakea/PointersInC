@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1715060576 source:c:\users\bibek\onedrive\desktop\pointersinc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
